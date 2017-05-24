@@ -1,5 +1,5 @@
 ---
-title: 对比其他框架
+title: 对比其
 type: guide
 order: 28
 ---
